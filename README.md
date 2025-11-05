@@ -10,7 +10,7 @@ The circuit counts from `0` to `9` and displays the output on a **common anode 7
 
 ![4 Bit Synchronous BCD Counter Circuit](bcd.jpg)
 
-you can also use 10uf capacitor instead of 1uf ](https://github.com/mikey-7x?tab=repositories)capacitor.the capacitor between pin.6,7 & ground decide transfer speed of 0-9 numbers of seven segment display when your pushing the button 
+you can also use 10uf capacitor instead of 1uf capacitor.the capacitor between pin.6,7 & ground decide transfer speed of 0-9 numbers of seven segment display when your pushing the button 
 
 ---
 
