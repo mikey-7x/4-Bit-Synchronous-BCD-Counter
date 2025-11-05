@@ -130,7 +130,8 @@ Through this project, you will learn:
 
 ## 📄 License
 
-This project is licensed under the [MIT Licence](LICENSE)
+This project is licensed under the 
+[MIT License](LICENSE).
 
 ---
 
