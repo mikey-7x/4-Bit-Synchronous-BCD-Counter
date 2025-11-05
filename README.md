@@ -127,7 +127,9 @@ Through this project, you will learn:
 ## 👨‍💻 Author
 
 **Project by:** mikey-7x
+
 **GitHub Repository:** https://github.com/mikey-7x?tab=repositories
+
 **Date:** 5 November 2025  
 
 ---
