@@ -4,8 +4,11 @@ This project demonstrates a **4-Bit Synchronous BCD Counter** built using the **
 The circuit counts from `0` to `9` and displays the output on a **common anode 7-segment display**.
 
 ---
+**4-Bit-Synchronous-BCD-Counter**
 
 ![4-Bit Synchronous BCD Counter Circuit](bcd.jpg)
+
+you can also use 10uf capacitor instead of 1uf capacitor.the capacitor between pin.6,7 & ground decide transfer speed of 0-9 numbers of seven segment display when your pushing the button 
 
 ---
 
@@ -131,7 +134,7 @@ Through this project, you will learn:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT LICENCE](LICENSE).
 
 ---
 
