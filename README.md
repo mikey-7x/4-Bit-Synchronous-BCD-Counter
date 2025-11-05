@@ -126,15 +126,15 @@ Through this project, you will learn:
 
 ## 👨‍💻 Author
 
-**Project by:** [Your Name]  
-**GitHub Repository:** [Your Repository Link]  
-**Date:** November 2025  
+**Project by:** [mikey-7x]  
+**GitHub Repository:** [https://github.com/mikey-7x?tab=repositories]  
+**Date:** 5 November 2025  
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT LICENCE](LICENSE).
+This project is licensed under the [MIT Licence](LICENSE).
 
 ---
 
