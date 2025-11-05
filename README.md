@@ -5,6 +5,10 @@ The circuit counts from `0` to `9` and displays the output on a **common anode 7
 
 ---
 
+![4-Bit Synchronous BCD Counter Circuit](bcd.jpg)
+
+---
+
 ## 🧩 Components Required
 
 | Component | Description | Quantity |
