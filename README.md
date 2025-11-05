@@ -4,11 +4,13 @@ This project demonstrates a **4-Bit Synchronous BCD Counter** built using the **
 The circuit counts from `0` to `9` and displays the output on a **common anode 7-segment display**.
 
 ---
-**4-Bit-Synchronous-BCD-Counter**
+## 🖼️ Circuit Diagram
 
-![4-Bit Synchronous BCD Counter Circuit](bcd.jpg)
+> Hand-drawn schematic of the **4-Bit Synchronous BCD Counter**:
 
-you can also use 10uf capacitor instead of 1uf capacitor.the capacitor between pin.6,7 & ground decide transfer speed of 0-9 numbers of seven segment display when your pushing the button 
+![4 Bit Synchronous BCD Counter Circuit](bcd.jpg)
+
+you can also use 10uf capacitor instead of 1uf ](https://github.com/mikey-7x?tab=repositories)capacitor.the capacitor between pin.6,7 & ground decide transfer speed of 0-9 numbers of seven segment display when your pushing the button 
 
 ---
 
@@ -105,14 +107,6 @@ Through this project, you will learn:
 - Event counters  
 - Frequency measurement systems  
 - Educational demonstration kits for digital electronics  
-
----
-
-## 🖼️ Circuit Diagram
-
-> Hand-drawn schematic of the **4-Bit Synchronous BCD Counter**:
-
-![4 Bit Synchronous BCD Counter Circuit](./1000135445.jpg)
 
 ---
 
