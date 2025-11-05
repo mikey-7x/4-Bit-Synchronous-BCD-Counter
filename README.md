@@ -4,6 +4,13 @@ This project demonstrates a **4-Bit Synchronous BCD Counter** built using the **
 The circuit counts from `0` to `9` and displays the output on a **common anode 7-segment display**.
 
 ---
+
+## Demo Video
+
+[Download demo video](./sbcd.mp4) or [View it online](./sbcd.mp4)
+
+
+---
 ## 🖼️ Circuit Diagram
 
 > Hand-drawn schematic of the **4-Bit Synchronous BCD Counter**:
