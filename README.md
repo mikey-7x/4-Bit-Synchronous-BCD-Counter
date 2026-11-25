@@ -7,6 +7,9 @@ The circuit counts from `0` to `9` and displays the output on a **common anode 7
 
 ## Demo Video
 
+[![YouTube Video](https://img.youtube.com/vi/pGmSthC2u4I/0.jpg)](https://youtube.com/shorts/pGmSthC2u4I)  
+
+
 [![Watch on Google Drive](https://img.shields.io/badge/▶️-Watch_on_Google_Drive-blue)](https://drive.google.com/file/d/1sw_xarqKxR3iubJ0A-jCoPJ03B6BRH_r/view?usp=drivesdk)
 
 
